@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "sqlite-mcp-server": {
+      "command": "python",
+      "args": ["sqlite_mcp_server.py"],
+      "cwd": "C:\\Users\\gaial\\Desktop\\AiDD_General\\cursor_test"
+    }
+  }
+}
